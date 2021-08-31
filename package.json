@@ -1,0 +1,14 @@
+{
+  "name": "planets_projcet",
+  "version": "1.0.0",
+  "description": "This project fetches the data from kepler (NASA)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sagarkp3@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.16.2"
+  }
+}
